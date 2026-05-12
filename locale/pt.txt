@@ -3,28 +3,30 @@
 ## E-Learning
 
 ### Answer
-questionOption_1C0E4A5A_090A_3808_4199_B1AC9E4027D4.text = A Equipe pode aproveitar uma APR anterior e usá-la como análise desde que seja uma atividade semelhante.
-questionOption_1CC32392_091A_0819_4186_36B7BAFCF292.text = APR realizada em conjunto, com participação ativa da dupla na avaliação de nas assinaturas.
-questionOption_1FA3A9CA_091A_3809_4191_3CDBAF8AC52C.text = Avaliação da estrutura por baixo e uso correto do dinamômetro acoplado ao bastão.
+questionOption_0A7EC307_189D_BD2B_41AC_FA7817D23D64.text =  Equipe avalia o local, identifica riscos reais e preenche a APR com base na situação.
+questionOption_0A694168_189D_BDE4_41AE_EFC577656226.text = A Equipe pode aproveitar uma APR anterior e usá-la como análise desde que seja uma atividade semelhante.
+questionOption_0B372D36_188C_C56C_41A8_83E8285E1A51.text = APR realizada em conjunto, com participação ativa da dupla na avaliação de nas assinaturas.
+questionOption_0CF75D6E_18BD_45FD_419C_54EC07D79F03.text = Avaliação da estrutura por baixo e uso correto do dinamômetro acoplado ao bastão.
 questionOption_10148C15_087D_FA32_4187_EF324F7C95A2.text = Colaborador deixa a fita frouxa ou caída, permitindo passagem involuntária.
 questionOption_1008EDCC_087D_FA12_4189_76DD88449582.text = Colaborador deve criar uma porta de acesso, manter fechada e sempre abrir/fechar ao passar.
 questionOption_104437C2_087D_F616_4190_AE761216BC50.text = Colaborador remove temporariamente a fita para passar e não a recoloca.
-questionOption_1A11BB0B_090E_380F_415A_B59EA91FBD18.text = Criação de delimitação de área com corredor seguro para pedestres, placas de sinalização visível em ambos os lados.
-questionOption_1C02D80A_090A_3809_41A0_417B37E2B862.text = Equipe avalia o local, identifica riscos reais e preenche a APR com base na situação.
-questionOption_1C193C52_090A_3819_416F_A53D73C59D58.text = O Preenchimento da APR já é o suficiente para garantir a segurança da equipe.
-questionOption_1CDFA5D5_091A_081B_41A2_1957D02D63ED.text = Os dois participam da Análise de Risco e somente 1 membro assina como responsável da APR.
-questionOption_1F53B5F1_091A_081B_418A_F1C3E3083ACC.text = Poste empurrado com as mãos é o suficiente para garantir a integridade da estrutura.
-questionOption_1FAAC803_091A_07FF_419E_203D77F57A24.text = Teste feito com escada já apoiada forçando-o para frente.
-questionOption_1CE51815_091A_381B_418F_409FC5771CD9.text = Um colaborador verifica as condições do veículo enquanto o outro avalia o cenário.
-questionOption_1A99FD83_090E_38F8_4161_39824AC99C42.text = Área bem delimitada com corredor seguro para pedestres, sem placa de acesso a pedestres.
-questionOption_1BF9770B_090E_080F_4116_434E4BE2C858.text = Área bem delimitada e sem corredor de acesso a pedestres
+questionOption_096EF34F_1887_7D3C_41B0_ABDCEA4898CA.text = Criação de delimitação de área com corredor seguro para pedestres, placas de sinalização visível em ambos os lados.
+questionOption_0A5C4CD7_189D_CB2B_419C_E38C4F033F3A.text = O Preenchimento da APR já é o suficiente para garantir a segurança da equipe.
+questionOption_0B0F1BA7_188C_CD6C_41B1_F111B082CA19.text = Os dois participam da Análise de Risco e somente 1 membro assina como responsável da APR.
+questionOption_0CCB77E7_18BD_44EB_4193_720194F78E86.text = Poste empurrado com as mãos é o suficiente para garantir a integridade da estrutura.
+questionOption_0CF8CB87_18BD_4D2C_41B5_4FC80FD13A19.text = Teste feito com escada já apoiada forçando-o para frente.
+questionOption_0B1A58CD_188C_CB3F_41A4_8CA09B92BE80.text = Um colaborador verifica as condições do veículo enquanto o outro avalia o cenário.
+questionOption_096591BD_1887_7D5F_418E_2BAAA2622541.text = Área bem delimitada com corredor seguro para pedestres, sem placa de acesso a pedestres.
+questionOption_0956FE27_1887_476C_41B6_EE5B4FCE66D9.text = Área bem delimitada e sem corredor de acesso a pedestres
 
 ### Question
-question_1DDD721F_090A_0807_4140_404BC130F078.title = Há um erro nessa cena. Qual é o procedimento correto? 
-question_1BD02032_090E_0819_4190_DB559C5A80D8.title = Há um erro nessa cena. Qual é o procedimento correto? 
+question_0A2504BD_189D_DB5F_41B8_3FDF7F7A2AEE.title = Há um erro nessa cena. Qual é o procedimento correto? 
+question_0BF23563_188C_C5EB_4193_BE66301191C4.title = Há um erro nessa cena. Qual é o procedimento correto? 
 question_13DDDAE7_087C_BE1E_41A0_9417174E420E.title = Há um erro nessa cena. Qual é o procedimento correto? 
-question_1CA3B128_091A_0809_419D_7BF9DA544604.title = Há um erro nessa cena. Qual é o procedimento correto? 
-question_1F75D27D_091A_080B_419D_1B39C78B9401.title = Há um erro nessa cena. Qual é o procedimento correto? 
+question_0CB5F044_18BD_DB2D_41AC_CE4347B3461F.title = Há um erro nessa cena. Qual é o procedimento correto? 
+question_090E1EB3_1887_C76B_417D_09DCEDFC4FFD.title = Há um erro nessa cena. Qual é o procedimento correto?  \
+ \
+
 
 ### Question Screen
 quizQuestion_19EB35E0_0874_EA11_4194_C062BA098926.ok = OK
@@ -53,60 +55,96 @@ quizTimeout_19EB35E0_0874_EA11_419B_BDAE14B5CC91.score = View Score
 
 ### 360 Video
 
+### Image
+imlevel_0EA228FB_1D28_179A_41B7_35E929001744.url = media/popup_0EB3BB86_1D28_6A6A_4157_0DEC66F15540_pt_0_0.webp
+imlevel_0EA238FB_1D28_179A_41A5_0564F1CC0717.url = media/popup_0EB3BB86_1D28_6A6A_4157_0DEC66F15540_pt_0_1.webp
+imlevel_0EA3C8FC_1D28_179E_419A_803B1753AB34.url = media/popup_0EB3BB86_1D28_6A6A_4157_0DEC66F15540_pt_0_2.webp
+imlevel_0EA3D8FC_1D28_179E_419F_895739DD5164.url = media/popup_0EB3BB86_1D28_6A6A_4157_0DEC66F15540_pt_0_3.webp
+imlevel_0EA3E8FC_1D28_179E_4192_AB63037D8947.url = media/popup_0EB3BB86_1D28_6A6A_4157_0DEC66F15540_pt_0_4.webp
+
+### Popup Image
+
 ### Title
 panorama_10C0CF1D_087D_9632_4172_FE30E63DDA79.label = 1
-panorama_19C540C7_090A_0807_4185_C2A97236C621.label = 2
-panorama_1DF57BCC_090A_1808_415C_AC8E69DA4074.label = 3
-panorama_1DF9C3FF_091A_0807_41A1_5FA101F1A310.label = 4
-panorama_1F257348_091A_0808_4170_505408AEDF00.label = 5
+panorama_171B8EAC_187B_477D_41B0_6C4EE42E5D89.label = 2
+panorama_0AD1EFD2_189C_C525_41B5_2ABCAAD2D248.label = 3
+panorama_0A783077_188D_BBEC_41AF_7936E7B29ED5.label = 4
+panorama_0A71620C_18BC_FF3D_41B5_31391E77C540.label = 5
 panorama_10963181_0834_AA12_419D_C208976B0B51.label = Gemini_Generated_Image_1e5d5l1e5d5l1e5d
-media_1E970855_091A_181B_4193_FE080B179238.label = V_Cena3_respostaVideo1_EN
+album_13DE8290_1D38_3A66_41BA_710EAF430410.label = Photo Album T_imagem_Cena3_Video2_EN
+album_13DE8290_1D38_3A66_41BA_710EAF430410_0.label = T_imagem_Cena3_Video2_EN
+media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44.label = V2_cena2_respostaVideo1e2_EN
+media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9.label = V_Cena3_respostaVideo1_EN
 media_1D4B8EAE_0875_766E_4158_F7CD80D5084E.label = V_cena1_respostaVideo1_EN
-media_1BBE5A8C_090E_3809_418B_F663E312DB40.label = V_cena1_respostaVideo2_EN
+media_0A88F7D4_188B_452D_4198_6E6335683AC9.label = V_cena1_respostaVideo2_EN
 media_07D1B977_0854_9AFE_416C_D8131EFE927B.label = V_cena1_video1_EN1
-media_06374982_0916_18F8_4193_6813C5DC586F.label = V_cena1_video2_EN
-media_1FEC6818_090E_1809_418E_DBC837D1F81C.label = V_cena2_respostaVideo1e2_EN
-media_1D18523E_093E_0808_41A1_4B66C6AD52C7.label = V_cena2_video1_EN
-media_1C09DD10_090E_1819_4195_0794C6C7FB44.label = V_cena2_video2_EN
-media_1F850F18_091E_1809_4183_39E644A75DC2.label = V_cena3_video1_EN
+media_15EB238A_187D_7D25_4192_9DAC207B92C7.label = V_cena1_video2_EN
+media_0AD18DB2_189B_4565_415A_27C84E2BD3C6.label = V_cena2_respostaVideo1e2_EN
+media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA.label = V_cena2_video1_EN
+media_0A486FF6_188B_44ED_4121_3537FCCF8640.label = V_cena2_video2_EN
+media_0C85A8EC_18BB_CCFD_41B6_054F6942186C.label = V_cena3_video1_EN
 
 ### Video
-videores_1BCBDDFA_090A_1809_41A1_1F99C0E8CBCD.posterURL = media/media_06374982_0916_18F8_4193_6813C5DC586F_poster_pt.jpg
-videores_1C347331_091A_081B_4188_50232C8D5EB4.posterURL = media/media_06374982_0916_18F8_4193_6813C5DC586F_poster_pt.jpg
-videores_1BCBDDFA_090A_1809_41A1_1F99C0E8CBCD.url = media/media_06374982_0916_18F8_4193_6813C5DC586F_pt.mp4
-videores_1C347331_091A_081B_4188_50232C8D5EB4.url = media/media_06374982_0916_18F8_4193_6813C5DC586F_pt_1.mp4
-videores_1FBAFC34_097A_1819_419F_47B55FDA8357.posterURL = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_poster_pt.jpg
+videores_0D5B078D_188C_C53F_41B5_80B2601C212B.posterURL = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_poster_pt.jpg
 videores_1D54317A_087F_6AF6_4186_C002F1B3C94D.posterURL = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_poster_pt.jpg
+videores_0E545E90_1D68_2A66_41AC_C29EFD56D8DF.posterURL = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_poster_pt.jpg
+videores_0E545E90_1D68_2A66_41AC_C29EFD56D8DF.url = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_pt.m3u8
 videores_1D54317A_087F_6AF6_4186_C002F1B3C94D.url = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_pt.mp4
-videores_1FBAFC34_097A_1819_419F_47B55FDA8357.url = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_pt_1.mp4
-videores_1FC3DD8E_091A_3809_4189_9866DD76A7A3.posterURL = media/media_1BBE5A8C_090E_3809_418B_F663E312DB40_poster_pt.jpg
-videores_1A18A46E_090A_0809_417C_211E618474E3.posterURL = media/media_1BBE5A8C_090E_3809_418B_F663E312DB40_poster_pt.jpg
-videores_1A18A46E_090A_0809_417C_211E618474E3.url = media/media_1BBE5A8C_090E_3809_418B_F663E312DB40_pt.mp4
-videores_1FC3DD8E_091A_3809_4189_9866DD76A7A3.url = media/media_1BBE5A8C_090E_3809_418B_F663E312DB40_pt_1.mp4
-videores_1F45B2EE_090A_0809_416A_812A2BEB0502.posterURL = media/media_1C09DD10_090E_1819_4195_0794C6C7FB44_poster_pt.jpg
-videores_1ECBF51C_0916_0809_4190_79F77883B972.posterURL = media/media_1C09DD10_090E_1819_4195_0794C6C7FB44_poster_pt.jpg
-videores_1F45B2EE_090A_0809_416A_812A2BEB0502.url = media/media_1C09DD10_090E_1819_4195_0794C6C7FB44_pt.mp4
-videores_1ECBF51C_0916_0809_4190_79F77883B972.url = media/media_1C09DD10_090E_1819_4195_0794C6C7FB44_pt_1.mp4
-videores_1A44DD5A_093E_3809_419E_BCBFA4AE9BDD.posterURL = media/media_1D18523E_093E_0808_41A1_4B66C6AD52C7_poster_pt.jpg
-videores_1C4E37E8_091E_0809_41A1_AD51220CDFF8.posterURL = media/media_1D18523E_093E_0808_41A1_4B66C6AD52C7_poster_pt.jpg
-videores_1A44DD5A_093E_3809_419E_BCBFA4AE9BDD.url = media/media_1D18523E_093E_0808_41A1_4B66C6AD52C7_pt.mp4
-videores_1C4E37E8_091E_0809_41A1_AD51220CDFF8.url = media/media_1D18523E_093E_0808_41A1_4B66C6AD52C7_pt_1.mp4
-videores_1F6E9E14_0936_3819_4181_B7A3D684A7EE.posterURL = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_poster_pt.jpg
+videores_0D5B078D_188C_C53F_41B5_80B2601C212B.url = media/media_07D1B977_0854_9AFE_416C_D8131EFE927B_pt_1.mp4
+videores_0E700F48_1D38_2AE6_4151_4072A5F2FB54.posterURL = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_poster_pt.jpg
+videores_0EE07B27_188D_4D6B_419B_20DC2497BD1F.posterURL = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_poster_pt.jpg
+videores_0C39187B_18BF_CBE4_4192_1D3AA5A02E0F.posterURL = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_poster_pt.jpg
+videores_0E700F48_1D38_2AE6_4151_4072A5F2FB54.url = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_pt.m3u8
+videores_0C39187B_18BF_CBE4_4192_1D3AA5A02E0F.url = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_pt.mp4
+videores_0EE07B27_188D_4D6B_419B_20DC2497BD1F.url = media/media_0A09E1F0_18BB_DCE4_41A5_3CD15163D4E9_pt_1.mp4
+videores_0E891823_1D38_F6AA_418A_70009CC3B879.posterURL = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_poster_pt.jpg
+videores_0CF525BF_18BD_C55B_4199_F720D18E5B24.posterURL = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_poster_pt.jpg
+videores_0A6A330C_188C_FD3D_41AA_0DE4F84920E3.posterURL = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_poster_pt.jpg
+videores_0E891823_1D38_F6AA_418A_70009CC3B879.url = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_pt.m3u8
+videores_0A6A330C_188C_FD3D_41AA_0DE4F84920E3.url = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_pt.mp4
+videores_0CF525BF_18BD_C55B_4199_F720D18E5B24.url = media/media_0A486FF6_188B_44ED_4121_3537FCCF8640_pt_1.mp4
+videores_0EFE067E_1D28_1A9A_41BC_EBAE5517ACB9.posterURL = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_poster_pt.jpg
+videores_0A9E5517_188F_C52B_41A6_F757294AB527.posterURL = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_poster_pt.jpg
+videores_0CED2E0B_188B_473B_418F_5875FF54B93F.posterURL = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_poster_pt.jpg
+videores_0EFE067E_1D28_1A9A_41BC_EBAE5517ACB9.url = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_pt.m3u8
+videores_0A9E5517_188F_C52B_41A6_F757294AB527.url = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_pt.mp4
+videores_0CED2E0B_188B_473B_418F_5875FF54B93F.url = media/media_0A85D3D7_188C_BD2C_41AD_D118514FEBBA_pt_1.mp4
+videores_0E0721D6_188C_BD2D_41A3_EBD2640DC60A.posterURL = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_poster_pt.jpg
+videores_0A8CEA87_188F_4F2B_41A4_8DCAD85F8D5E.posterURL = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_poster_pt.jpg
+videores_09B6A053_1D28_16EA_4185_C4224CAEABE1.posterURL = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_poster_pt.jpg
+videores_09B6A053_1D28_16EA_4185_C4224CAEABE1.url = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_pt.m3u8
+videores_0A8CEA87_188F_4F2B_41A4_8DCAD85F8D5E.url = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_pt.mp4
+videores_0E0721D6_188C_BD2D_41A3_EBD2640DC60A.url = media/media_0A88F7D4_188B_452D_4198_6E6335683AC9_pt_1.mp4
+videores_09062791_1D28_1A66_41B2_9C34A951D434.posterURL = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_poster_pt.jpg
+videores_0C1392A1_1885_5F67_41B7_F6A1E6A013CF.posterURL = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_poster_pt.jpg
+videores_0DCF08A7_1884_CB6B_41A0_73C9595E3152.posterURL = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_poster_pt.jpg
+videores_09062791_1D28_1A66_41B2_9C34A951D434.url = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_pt.m3u8
+videores_0C1392A1_1885_5F67_41B7_F6A1E6A013CF.url = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_pt.mp4
+videores_0DCF08A7_1884_CB6B_41A0_73C9595E3152.url = media/media_0AD18DB2_189B_4565_415A_27C84E2BD3C6_pt_1.mp4
+videores_093489CD_1D38_29F9_41A5_B5BE30BB038D.posterURL = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_poster_pt.jpg
+videores_0C0DE35B_18BF_BD24_417F_FD234B1B8862.posterURL = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_poster_pt.jpg
+videores_0C26D8F8_1885_4CE5_41A6_48EF3CD8CBBB.posterURL = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_poster_pt.jpg
+videores_093489CD_1D38_29F9_41A5_B5BE30BB038D.url = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_pt.m3u8
+videores_0C0DE35B_18BF_BD24_417F_FD234B1B8862.url = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_pt.mp4
+videores_0C26D8F8_1885_4CE5_41A6_48EF3CD8CBBB.url = media/media_0C85A8EC_18BB_CCFD_41B6_054F6942186C_pt_1.mp4
+videores_0E54E83A_1D38_169A_41BB_070701CBED89.posterURL = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_poster_pt.jpg
+videores_0EC089BD_18BB_CD5F_41B2_BB5881FEC663.posterURL = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_poster_pt.jpg
+videores_0CF28602_188C_C725_41AD_D5CD1E64B132.posterURL = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_poster_pt.jpg
+videores_0E54E83A_1D38_169A_41BB_070701CBED89.url = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_pt.m3u8
+videores_0CF28602_188C_C725_41AD_D5CD1E64B132.url = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_pt.mp4
+videores_0EC089BD_18BB_CD5F_41B2_BB5881FEC663.url = media/media_0CC3CA16_188C_CF2C_41A3_0D5DC5E56C44_pt_1.mp4
+videores_0D023990_188D_4D25_41B3_C947A6279AD7.posterURL = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_poster_pt.jpg
+videores_175A4553_187B_C524_41B6_50BFC6FC2397.posterURL = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_poster_pt.jpg
+videores_097AA1A1_1D28_39A9_41B5_8FB4275333F5.posterURL = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_poster_pt.jpg
+videores_097AA1A1_1D28_39A9_41B5_8FB4275333F5.url = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_pt.m3u8
+videores_175A4553_187B_C524_41B6_50BFC6FC2397.url = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_pt.mp4
+videores_0D023990_188D_4D25_41B3_C947A6279AD7.url = media/media_15EB238A_187D_7D25_4192_9DAC207B92C7_pt_1.mp4
 videores_1A95B4D7_087B_6A3E_419F_1F7DF382E9F6.posterURL = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_poster_pt.jpg
+videores_091AAC2B_1D28_2EBA_41B8_98B53CD801F7.posterURL = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_poster_pt.jpg
+videores_0D722EB4_1885_C76C_4172_35D8C2C99ACC.posterURL = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_poster_pt.jpg
+videores_091AAC2B_1D28_2EBA_41B8_98B53CD801F7.url = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_pt.m3u8
 videores_1A95B4D7_087B_6A3E_419F_1F7DF382E9F6.url = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_pt.mp4
-videores_1F6E9E14_0936_3819_4181_B7A3D684A7EE.url = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_pt_1.mp4
-videores_110B2127_0916_0838_4175_540820F1FC37.posterURL = media/media_1E970855_091A_181B_4193_FE080B179238_poster_pt.jpg
-videores_1F88A1D1_090E_081B_419C_A64BEDF65F42.posterURL = media/media_1E970855_091A_181B_4193_FE080B179238_poster_pt.jpg
-videores_110B2127_0916_0838_4175_540820F1FC37.url = media/media_1E970855_091A_181B_4193_FE080B179238_pt.mp4
-videores_1F88A1D1_090E_081B_419C_A64BEDF65F42.url = media/media_1E970855_091A_181B_4193_FE080B179238_pt_1.mp4
-videores_1F45A338_090E_0809_417C_21D5928CE9F2.posterURL = media/media_1F850F18_091E_1809_4183_39E644A75DC2_poster_pt.jpg
-videores_1ECDC971_0916_181B_4194_77C5FDE2F0CE.posterURL = media/media_1F850F18_091E_1809_4183_39E644A75DC2_poster_pt.jpg
-videores_1ECDC971_0916_181B_4194_77C5FDE2F0CE.url = media/media_1F850F18_091E_1809_4183_39E644A75DC2_pt.mp4
-videores_1F45A338_090E_0809_417C_21D5928CE9F2.url = media/media_1F850F18_091E_1809_4183_39E644A75DC2_pt_1.mp4
-videores_1CC4F5E6_091A_0839_4182_16ADDEC8FDA2.posterURL = media/media_1FEC6818_090E_1809_418E_DBC837D1F81C_poster_pt.jpg
-videores_1F09BBBE_090D_F806_41A1_C135CDB44BF8.posterURL = media/media_1FEC6818_090E_1809_418E_DBC837D1F81C_poster_pt.jpg
-videores_1F09BBBE_090D_F806_41A1_C135CDB44BF8.url = media/media_1FEC6818_090E_1809_418E_DBC837D1F81C_pt.mp4
-videores_1CC4F5E6_091A_0839_4182_16ADDEC8FDA2.url = media/media_1FEC6818_090E_1809_418E_DBC837D1F81C_pt_1.mp4
+videores_0D722EB4_1885_C76C_4172_35D8C2C99ACC.url = media/media_1D4B8EAE_0875_766E_4158_F7CD80D5084E_pt_1.mp4
 
 ### Video Subtitles
 
@@ -115,6 +153,9 @@ videores_1CC4F5E6_091A_0839_4182_16ADDEC8FDA2.url = media/media_1FEC6818_090E_18
 ### Image
 Image_1009F5D6_084F_EA3E_4161_C9A7AC5EA8F8.url = skin/Image_1009F5D6_084F_EA3E_4161_C9A7AC5EA8F8_pt.png
 Image_11008E07_084F_B61E_4199_4CD132B18F6D.url = skin/Image_11008E07_084F_B61E_4199_4CD132B18F6D_pt.png
+
+### Multiline Text
+HTMLText_0F5F86F9_1984_C4E7_418D_ADAD5A1499E3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:36px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:36px;"><B>Pontos:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:39px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6633;font-size:39px;"><B>{{quiz.score}} / {{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
